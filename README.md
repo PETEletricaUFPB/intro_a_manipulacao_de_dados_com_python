@@ -28,3 +28,8 @@ O curso será disponibilizado para a comunidade acadêmica interna e externa a U
   3. Introduzir as formas de obter dados e retirar informações desse utilizando programação em código.
   4. Introduzir as diferentes formas de extensões de arquivos para obtenção de disponibilização de informações.
   5. Capacitar os participantes a respeito das bibliotecas disponíveis em Python para manipulação de dados.
+
+
+<a href="https://github.com/PETEletricaUFPB">
+  <img src="capa.jpg">
+</a>
