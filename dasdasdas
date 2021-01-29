@@ -1,0 +1,38 @@
+[33mcommit 517e96fa0274e171764aa4dc1c69390eab45a88f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: RafaelBenatti <rafael.benatti@cear.ufpb.br>
+Date:   Fri Jan 29 15:59:24 2021 -0300
+
+    correção em arquivo1.close()
+
+[33mcommit 26a9113a4fec0d5988b0e6e92a84e87f678a6368[m
+Author: PETEletricaUFPB <77749126+PETEletricaUFPB@users.noreply.github.com>
+Date:   Sun Jan 24 23:17:24 2021 -0300
+
+    Update README.md
+
+[33mcommit 6f055863642964d655109cf874b80b914ec6da91[m
+Merge: 1aafc7f 788afaf
+Author: PETEletricaUFPB <77749126+PETEletricaUFPB@users.noreply.github.com>
+Date:   Sun Jan 24 23:14:59 2021 -0300
+
+    Merge pull request #1 from Miguel-mmf/miguel
+    
+    Initial commit
+
+[33mcommit 788afaf33cdeda184ce3430c4b24150e7be30a75[m
+Author: Miguel Marques Ferreira <miguel.ferreira@cear.ufpb.br>
+Date:   Sun Jan 24 23:06:52 2021 -0300
+
+    Initial commit
+
+[33mcommit 1aafc7f73d989bd45a9fd6eeb96fa53694c8b114[m
+Author: PETEletricaUFPB <77749126+PETEletricaUFPB@users.noreply.github.com>
+Date:   Sat Jan 23 22:38:22 2021 -0300
+
+    Update README.md
+
+[33mcommit 9e78f0115a6c5490c0d7f0b2ff6ba44a6ec88710[m
+Author: PETEletricaUFPB <77749126+PETEletricaUFPB@users.noreply.github.com>
+Date:   Sat Jan 23 22:29:19 2021 -0300
+
+    Initial commit
