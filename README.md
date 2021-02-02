@@ -1,4 +1,8 @@
 <div>
+  <a href="http://www.cear.ufpb.br/pet">
+      <img src="../images/logo_pet.png" width="150px" align="right">
+  </a>
+  
   <h1 Align='center'>
     <font color='blue'>
         Minicurso - Introdução a Manipulação de Dados com Python
