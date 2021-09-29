@@ -8,9 +8,6 @@
 Conhecimento prévio de python:
   * Tipos de variáveis, estruturas básicas de controle de fluxo…
 
-
-## Responsáveis pela Atividades
-
 ## Objetivos
 Capacitar os alunos do curso de Engenharia Elétrica da UFPB e interessados em programação com a linguagem Python na realização de atividades envolvendo a obtenção de dados abertos e a manipulação destes.
 
