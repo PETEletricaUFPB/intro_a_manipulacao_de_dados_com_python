@@ -1,24 +1,15 @@
-<div>
-  <a href="http://www.cear.ufpb.br/pet">
-      <img src="../images/logo_pet.png" width="150px" align="right">
-  </a>
-  
-  <h1 Align='center'>
-    <font color='blue'>
-        Minicurso - Introdução a Manipulação de Dados com Python
-    </font>
-  </h1>
-
-  <h2 Align='center'>
-    <font color='blue'>
-        Aquisição e manipulação de dados - Online 2021
-    </font>
-  </h2>
-</div>
+<h1 Align='center'>
+  <font color='blue'>
+      Minicurso - Introdução a Manipulação de Dados com Python
+  </font>
+</h1>
 
 ## Requisitos para participar do curso
 Conhecimento prévio de python:
   * Tipos de variáveis, estruturas básicas de controle de fluxo…
+
+
+## Responsáveis pela Atividades
 
 ## Objetivos
 Capacitar os alunos do curso de Engenharia Elétrica da UFPB e interessados em programação com a linguagem Python na realização de atividades envolvendo a obtenção de dados abertos e a manipulação destes.
@@ -35,5 +26,5 @@ O curso será disponibilizado para a comunidade acadêmica interna e externa a U
 
 
 <a href="https://github.com/PETEletricaUFPB">
-  <img src="capa.jpg">
+  <img src="./images/tema_google_forms.jpg">
 </a>
